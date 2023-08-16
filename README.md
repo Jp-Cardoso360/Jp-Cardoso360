@@ -8,6 +8,8 @@ Jp-Cardoso360/Jp-Cardoso360 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 <h2>skills</h2>
+<img align="center" height="30" width="40" alt="html5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;">
+<img align="center" height="30" width="40" alt="css3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;">
 <img align="center" height="30" width="40" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
 <h2>Where to find me</h2>
 <a href="#" rel="nofollow"><img src="https://camo.githubusercontent.com/4cbbe1766c46cbcdb21dd764eddd7f1a30922bb05fce2dcd34f602fde634e79e/68747470733a2f2f692e696d6775722e636f6d2f4d796d413433492e706e67" data-canonical-src="https://i.imgur.com/MymA43I.png" style="max-width: 100%;"></a>

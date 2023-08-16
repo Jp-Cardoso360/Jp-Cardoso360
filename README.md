@@ -7,7 +7,7 @@
 Jp-Cardoso360/Jp-Cardoso360 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h2>skills</h2>
+<h2>Skills</h2>
 <div style ="display:flex;">
 <img align="center" height="30" width="40" alt="html5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;">
 <img align="center" height="30" width="40" alt="css3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;">

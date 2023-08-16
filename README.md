@@ -7,4 +7,4 @@
 Jp-Cardoso360/Jp-Cardoso360 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![fotoJP](https://github.com/Jp-Cardoso360/Jp-Cardoso360/assets/141683330/2f02a0eb-9bdd-411a-9735-c966a3354023)
+

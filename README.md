@@ -4,7 +4,7 @@
 - 📫 How to reach me cardoso20.jp@gmail.com or 11971006940  
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jp-Cardoso360&show_icons=true&theme=radical)
 
 <h2>Skills</h2>
 <div style ="display:flex;">

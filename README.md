@@ -1,4 +1,4 @@
-- <h1>👋 Hi, I’m @Jp-Cardoso360</h1>
+- <h1>👋 Olá, I’m @Jp-Cardoso360</h1>
 - 👀 I’m interested in Developer Front-End
 - 🌱 I’m currently learning HTML, CSS e JavaScript
 - 📫 How to reach me cardoso20.jp@gmail.com or 11971006940  

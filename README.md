@@ -3,7 +3,7 @@
 - 👨‍💻 Eu estou estudando Desenvolvimento Front-End
 
 - 💻 No momento estou aprendendo HTML, CSS e JavaScript
-- 
+  <h2>Minhas estatísticas </h2>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jp-Cardoso360&show_icons=true&theme=radical)

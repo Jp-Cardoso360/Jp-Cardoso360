@@ -4,10 +4,10 @@
 - 📫 How to reach me cardoso20.jp@gmail.com or 11971006940 
 
 <a href="https://github.com/Jp-Cardoso360">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Jp-Cardoso360" />
 </a>
 <a href="https://github.com/Jp-Cardoso360">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jp-Cardoso360&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 <h2>Skills</h2>

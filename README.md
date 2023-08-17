@@ -1,10 +1,10 @@
-  <h1>👋 Olá, I’m @Jp-Cardoso360</h1>
+  <h1>👋 Olá, Eu sou @Jp-Cardoso360</h1>
   
-- 👀 I’m interested in Developer Front-End
+- 👩‍💻 Eu estou estundando Desenvolvimento Front-End
 
-- 🌱 I’m currently learning HTML, CSS e JavaScript
+- 💻 No momento estou aprendendo HTML, CSS e JavaScript
 
-- 📫 How to reach me cardoso20.jp@gmail.com or 11971006940  
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jp-Cardoso360&show_icons=true&theme=radical)

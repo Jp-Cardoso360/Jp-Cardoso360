@@ -4,7 +4,7 @@
 
 - 💻 No momento estou aprendendo HTML, CSS e JavaScript
 - 
-<h2>Minhas estatísticas </h2>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jp-Cardoso360&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jp-Cardoso360&hide_progress=true,icons=true&theme=radical)

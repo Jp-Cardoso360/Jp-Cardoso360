@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning HTML, CSS e JavaScript
 - 📫 How to reach me cardoso20.jp@gmail.com or 11971006940  
 
-<img src="https://camo.githubusercontent.com/Jp-Cardoso360" alt="jolly" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Jp-Cardoso360&amp;show_icons=true&amp;hide=contribs,Jp-Cardoso360&amp;cache_seconds=86400&amp;theme=jolly" style="max-width: 100%;" _msthidden="A" _mstalt="65169" _msthash="723">
-<div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jp-Cardoso360)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h2>Skills</h2>

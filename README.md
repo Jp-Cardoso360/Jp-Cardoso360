@@ -1,6 +1,6 @@
   <h1>👋 Olá, Eu sou @Jp-Cardoso360</h1>
   
-- 👩‍💻 Eu estou estundando Desenvolvimento Front-End
+- 👩‍💻 Eu estou estudando Desenvolvimento Front-End
 
 - 💻 No momento estou aprendendo HTML, CSS e JavaScript
 

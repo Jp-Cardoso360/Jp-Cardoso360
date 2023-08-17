@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML, CSS e JavaScript
 - 📫 How to reach me cardoso20.jp@gmail.com or 11971006940  
 
-<rect xmlns="http://www.w3.org/2000/svg" data-testid="card-bg" x="0.5" y="0.5" rx="4.5" height="99%" stroke="#e4e2e2" width="466" fill="#291B3E" stroke-opacity="1"/>
+<img src="https://camo.githubusercontent.com/245d78c8b00fc04808c487fcd568a5ca9056d8fdbbbc37752b5646bed8bbc24c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d6a6f6c6c79" alt="jolly" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Jp-Cardoso360&amp;show_icons=true&amp;hide=contribs,Jp-Cardoso360&amp;cache_seconds=86400&amp;theme=jolly" style="max-width: 100%;" _msthidden="A" _mstalt="65169" _msthash="723">
 
 <h2>Skills</h2>
 <div style ="display:flex;">

@@ -1,4 +1,4 @@
-  <h1>👋 Olá, Eu sou @Jp-Cardoso360</h1>
+  <h1>👋 Olá, Eu sou João Cardoso</h1>
   
 - 👨‍💻 Eu estou estudando Desenvolvimento Front-End
 

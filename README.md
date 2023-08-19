@@ -6,7 +6,7 @@
 - <h2>Minhas estatísticas </h2>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jp-Cardoso360&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jp-Cardoso360&show_icons=true&theme=radical)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jp-Cardoso360&show_progress=true,icons=true&theme=radical)
 
    <h2>Minhas Habilidades</h2>

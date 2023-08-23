@@ -1,5 +1,5 @@
 
-<div style = "display: flex; align-items: center; justify-content: center;  margin-left: 30%;" <h1>👋 Olá, Eu sou João Cardoso</h1>
+<div style = "display: flex; align-items: center; justify-content: center;  margin-left: 80%;" <h1>👋 Olá, Eu sou João Cardoso</h1>
   
 - 👨‍💻 Eu estou estudando Desenvolvimento Front-End
 

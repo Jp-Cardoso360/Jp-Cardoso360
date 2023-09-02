@@ -1,5 +1,5 @@
 <center>
-👋 Olá, Eu sou João Cardoso</h1>
+                                                             👋 Olá, Eu sou João Cardoso</h1>
   
 - 👨‍💻 Eu estou estudando Desenvolvimento Front-End
 

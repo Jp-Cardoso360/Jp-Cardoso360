@@ -1,27 +1,49 @@
 
--👋 Olá, Eu sou João Cardoso</h1>
-  
-- 👨‍💻 Eu estou estudando Desenvolvimento Front-End
-
-- 💻 No momento estou aprendendo HTML, CSS e JavaScript
-- <h2>Minhas estatísticas </h2>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jp-Cardoso360&show_icons=true&theme=radical)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jp-Cardoso360&show_progress=true,icons=true&theme=radical)
 
-   <h2>Minhas Habilidades</h2>
-<div style ="display:flex;">
-<img align="center" height="40" width="60" alt="html5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;">
-<img align="center" height="40" width="60" alt="css3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;">
-<img align="center" height="40" width="60" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
-<img align="center" height="40" width="60" alt="git" src="https://camo.githubusercontent.com/dc9e7e657b4cd5ba7d819d1a9ce61434bd0ddbb94287d7476b186bd783b62279/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="max-width: 100%;">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fa6c2f&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=f21f1f&center=true&vCenter=true&random=false&width=1000&lines=Hello+World!+My+name+is+Arthur;I+have+18+years+old;I'm+a+programming+student+and;I+want+to+work+in+the+field;I'm+from+Brazil;be+welcome%3A)](https://git.io/typing-svg)
+
+
+
+
+<!--my score-->
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Ed5Arthur&show_icons=true&count_private=true&hide_border=true&title_color=fa6c2f&icon_color=fa6c2f&text_color=c9d1d9&bg_color=0d1117" alt="Arthur github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ed5Arthur&layout=compact&hide_border=true&title_color=fa6c2f&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 
-  <h2>Meus contatos!</h2>
-<a href="#" rel="nofollow"><img src="https://camo.githubusercontent.com/5eac8cae27148e0506aec25ff48529ad88e52c263140b6e69cec5f99ee0d1c50/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426c6f676765722d4646353732323f7374796c653d666f722d7468652d6261646765266c6f676f3d626c6f67676572266c6f676f436f6c6f723d7768697465" style="max-width: 100%;"></a>
-<a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-cardoso-aquino-3929431ab" target="_blank" rel="nofollow"><img src="https://camo.githubusercontent.com/c00f87aeebbec37f3ee0857cc4c20b21fefde8a96caf4744383ebfe44a47fe3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
-<a href="cardoso20.jp@gmail.com"><img src="https://camo.githubusercontent.com/927d6b3961fa048ff7303daf291cb5869dfa25018997cf8c1373c2f6a85b1458/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d2532333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
+<!--colocar a cobrinha-->
+![snake gif](https://github.com/Ed5Arthur/Ed5Arthur/blob/output/github-contribution-grid-snake-dark.svg)
+
+
+ ### Main skills:
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+
+
+### Studying in this moment:
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)&nbsp;
+
+
+
+<div align="center">
+<a href = "arthurdosreisaraujo@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/arthur-araujo-31420027a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
+
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Ed5Arthur}/count.svg" /></p> 
+<br>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fa6c2f&height=120&section=footer"/>
 
 

@@ -12,7 +12,7 @@
 <!--my score-->
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Jp-Cardoso360&show_icons=true&count_private=true&hide_border=true&title_color=fa6c2f&icon_color=fa6c2f&text_color=c9d1d9&bg_color=0d1117" alt="joão github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ed5Arthur&layout=compact&hide_border=true&title_color=fa6c2f&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jp-Cardoso360&layout=compact&hide_border=true&title_color=fa6c2f&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 
@@ -33,7 +33,7 @@
 
 
 <div align="center">
-<a href = "arthurdosreisaraujo@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "cardoso20.jp@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/arthur-araujo-31420027a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
 
